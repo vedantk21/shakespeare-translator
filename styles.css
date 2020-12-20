@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.pYeruT2kA02vp77-H9SfrgHaFj%26pid%3DApi&f=1");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#txtInput, #divOutput {
+    height: 10vh;
+    width: 80%;
+    padding: 1rem;
+    border: 1px solid black;
+} 
